@@ -3,6 +3,6 @@ Arsenal_2020_Squad = ['Pierre-Emerick Aubameyeng', "Alexsander Lacazette", 'Will
 
 waste_of_talent = 'Willian'
 
-young_guns = Arsenal_2020_Squad[0], [2]
+young_guns = Arsenal_2020_Squad[]
 
 print(young_guns)
